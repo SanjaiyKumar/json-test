@@ -1,6 +1,6 @@
 [	
 	{
-		"tag": "ZirconRORTest1",
+		"tag": "ZirconRORTestDuplicate",
 		"heading": "",
 		"address": "1234 ZirconRORdatapull1",
 		"rent":1234,
@@ -9,7 +9,7 @@
 		"pets": "True",
 		"size": 1486,
 		"images": [],
-		"lockbox": "104909",
+		"lockbox": "140828",
 		"lockbox_instruction": "Front door or gas meter",
 		"prelease": false,
 		"active": true
